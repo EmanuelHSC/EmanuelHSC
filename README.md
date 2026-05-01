@@ -41,15 +41,6 @@ I work on integrating production systems, SAP, and custom solutions for manufact
 
 ---
 
-## 📊 Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EmanuelHSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelHSC&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-hoffmann-5315a2218/)
