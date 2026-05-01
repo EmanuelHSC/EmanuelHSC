@@ -1,4 +1,4 @@
-# Hi, I'm Emanuel 👋
+  # Hi, I'm Emanuel 👋
 
 Full Stack Developer focused on **industrial automation** and **factory floor innovation**.
 I work on integrating production systems, SAP, and custom solutions for manufacturing environments.
@@ -20,6 +20,7 @@ I work on integrating production systems, SAP, and custom solutions for manufact
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-0070F2?style=flat-square&logo=sap&logoColor=white)
 ![SAP MII](https://img.shields.io/badge/SAP_MII-0070F2?style=flat-square&logo=sap&logoColor=white)
 
@@ -40,7 +41,16 @@ I work on integrating production systems, SAP, and custom solutions for manufact
 
 ---
 
+## 📊 Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EmanuelHSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelHSC&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/EmanuelHSC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-hoffmann-5315a2218/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emanuelhoffmann58@gmail.com)
